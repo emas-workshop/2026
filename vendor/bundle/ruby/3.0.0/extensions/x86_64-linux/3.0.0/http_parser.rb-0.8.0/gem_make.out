@@ -1,0 +1,22 @@
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20251216-4365-s9uuk7.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+make: Warning: File 'Makefile' has modification time 0.88 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+make: Warning: File 'Makefile' has modification time 0.83 s in the future
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+make: Warning: File 'ruby_http_parser.so' has modification time 0.64 s in the future
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20251216-4365-t79ixq
+make: warning:  Clock skew detected.  Your build may be incomplete.

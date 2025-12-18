@@ -1,0 +1,20 @@
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20251216-4365-5jgwnd.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+make: Warning: File 'Makefile' has modification time 0.12 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+make: Warning: File 'Makefile' has modification time 0.087 s in the future
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/users/panos/documents/code/Idea/emas2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20251216-4365-r6hg3h
