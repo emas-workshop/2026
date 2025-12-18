@@ -19,11 +19,11 @@ entries_layout: list
 
 # Topics
 
-Over decades, substantial knowledge and expertise have been developed in the design and engineering of Multi-Agent Systems (MAS), including theories, architectures, languages, platforms, and methodologies. MAS engineering continues to evolve, bridging the expanding landscape of autonomous agents. With the emergence of augmented language models and generative agents, and their integration into agentic and multi-agent systems, new opportunities and challenges arise in how such systems are designed, implemented, and deployed. In this context, EMAS 2026 invites contributions that revisit and extend foundational questions in MAS engineering, including but not limited to:
+Over decades, substantial knowledge and expertise have been developed in the engineering of Multi-Agent Systems (MAS), including theories, architectures, languages, platforms, and methodologies for designing, implementing, and deploying autonomous agents and multi-agent systems. Despite this strong foundation, the emergence of augmented language models and generative agents, and their integration into agentic and multi-agent systems, introduces new challenges while also offering opportunities for MAS engineering to evolve and extend its principles to encompass the expanding landscape of autonomous agents. In this context, EMAS 2026, with its special theme on **Hybrid Agent Architectures and Multi-Agent Systems**, welcomes contributions that revisit, extend, or challenge established MAS engineering approaches, explore emerging generative agent architectures and agentic systems, or examine the integration of different approaches into hybrid agent architectures and multi-agent systems. Submissions may address and extend foundational questions in MAS engineering, including but not limited to:
 
-- How to specify, design, implement, verify, test, and validate MAS in light of emerging technologies such as generative agent models, agentic systems, and neuro-symbolic AI, as well as modern application needs including explainability, interoperability, and flexible tool use.
+- How to specify, design, implement, verify, test, and validate multi-agent systems in light of emerging technologies such as generative agent models, agentic systems, and neuro-symbolic Artificial Intelligence (AI), as well as modern application needs including explainability, interoperability, and flexible tool use.
 - Which (multi-)agent architectures and languages are best suited to meet diverse design objectives and system requirements.
-- How elements from established and emerging agent architectures can be combined to engineer hybrid architectures that leverage strengths while mitigating weaknesses.
+- How elements from established and emerging agent architectures can be combined to engineer hybrid architectures that leverage strengths while mitigating weaknesses of individual approaches.
 - How established MAS principles can inform the design of generative and hybrid agent architectures.
 - How advances in agentic technologies can drive the re-examination and extension of MAS principles, models, and languages, addressing emerging forms of generative agent interaction, coordination, and reasoning.
 - How multi-agent systems can enable interoperability among agents of heterogeneous architectures while ensuring effective, governed coordination and collaboration.
@@ -33,7 +33,7 @@ Over decades, substantial knowledge and expertise have been developed in the des
 EMAS 2026 provides a forum for researchers and practitioners in agent-oriented software engineering, multi-agent system programming, declarative agent languages and technologies, generative agents, and agentic systems to present and discuss research and emerging results in MAS engineering. The workshop aims to:
 
 - Enhance knowledge of the theory and practice of engineering autonomous agents and multi-agent systems, advancing the state of the art.
-- Demonstrate how MAS methodologies, architectures, languages, and tooling can be applied in the engineering of hybrid MAS and agents built on hybrid architectures.
+- Demonstrate how MAS methodologies, architectures, languages, and tooling can be applied in the engineering of hybrid multi-agent systems and agents built on hybrid architectures.
 - Define new directions for MAS engineering by combining established MAS approaches with insights from the Agentic AI community.
 - Encourage PhD and Master’s students to engage with and contribute to the field.
   
