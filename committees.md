@@ -6,14 +6,47 @@ entries_layout: list
 ---
 
 # Organising Committee
-- [Rem Collier](https://people.ucd.ie/rem.collier), UCD (Ireland)
+- [Rem Collier](https://people.ucd.ie/rem.collier), University College Dublin (Ireland)
 - [Alessandro Ricci](https://www.unibo.it/sitoweb/a.ricci), University of Bologna (Italy)
 - [Danai Vachtsevanou](https://www.alexandria.unisg.ch/entities/person/Danai_Vachtsevanou), University of St.Gallen (Switzerland)
 
 ***
 
 # Programme Committee
-TBA
+*New members may be added on a weekly basis.*
+- Matteo Baldoni, Università di Torino
+- Cristina 	Baroglio, Università di Torino
+- Olivier Boissier, Ecole Nationale Supérieure des Mines de St-Etienne & Institut Henri Fayol
+- Rafael H. Bordini, PUCRS
+- Daniela Briola, University of Milano-Bicocca
+- Samuele	Burattini,	University of Bologna
+- Moharram Challenger, University of Antwerp
+- Amit Chopra, Lancaster University
+- Andrei Ciortea, University of St.Gallen
+- Rem	Collier,	University College Dublin
+- Louise Dennis,	University of Manchester
+- Angelo Ferrando, University of Genova
+- Stéphane Galland, Belfort-Montbéliard University of Technology
+- James Harland, RMIT University
+- Vincent Hilaire,	Belfort-Montbéliard University of Technology
+- Tom Holvoet,	KU Leuven
+- Jomi Fred Hubner, Federal University of Santa Catarina
+- Jérémy Lemée, University of St.Gallen
+- Viviana Mascardi, University of Genova
+- Roberto	Micalizio,	University of Turin
+- Jörg P. Müller, Clausthal University of Technology
+- Andrei Olaru, National University of Science and Technology Politehnica Bucharest
+- Enrico Pontelli,	New Mexico State University
+- Alessandro Ricci,	University of Bologna
+- Sebastian Rodriguez,	RMIT University
+- Luca Sabatucci,	National Research Council of Italy - Institute for High-Performance Computing and Networking
+- Aditya Shinde, University of Georgia
+- Alexandru	Sorici, National University of Science and Technology Politehnica Bucharest
+- Danai	Vachtsevanou, University of St.Gallen
+- Gerhard Weiss,	Maastricht University
+- Michael Winikoff, Victoria University of Wellington
+- Vahid Yazdanpanah, University of Southampton
+- Neil Yorke-Smith, Delft University of Technology
 
 ***
 
