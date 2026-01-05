@@ -52,7 +52,7 @@ We solicit four types of submissions:
 
 Submissions should be formatted following the LNCS formatting style which is available via: [http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
-📤 **Submit your paper via OpenReview:** https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/EMAS
+📤 **Submit your paper via OpenReview:** [https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/EMAS](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/EMAS)
 
 ***
 
