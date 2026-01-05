@@ -23,7 +23,7 @@ Over decades, substantial knowledge and expertise have been developed in the eng
 
 In this context, EMAS 2026, with its special theme on **Hybrid Agent Architectures and Multi-Agent Systems**, welcomes contributions that revisit, extend, or challenge established MAS engineering approaches, explore emerging generative agent architectures and agentic systems, or examine the integration of different approaches into hybrid agent architectures and multi-agent systems. Submissions may address and extend foundational questions in MAS engineering, including but not limited to:
 
-- How to specify, design, implement, verify, test, and validate multi-agent systems in light of emerging technologies such as generative agent models, agentic systems, and neuro-symbolic Artificial Intelligence (AI), as well as modern application needs including explainability, interoperability, and flexible tool use.
+- How to specify, design, implement, verify, test, and verify multi-agent systems in light of emerging technologies such as generative agent models, agentic systems, and neuro-symbolic Artificial Intelligence (AI), as well as modern application needs including explainability, interoperability, and flexible tool use.
 - Which (multi-)agent architectures and languages are best suited to meet diverse design objectives and system requirements.
 - How elements from established and emerging agent architectures can be combined to engineer hybrid architectures that leverage strengths while mitigating weaknesses of individual approaches.
 - How established MAS principles can inform the design of generative and hybrid agent architectures.
