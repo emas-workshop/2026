@@ -32,6 +32,7 @@ entries_layout: list
 - Tom Holvoet,	KU Leuven
 - Jomi Fred Hubner, Federal University of Santa Catarina
 - Jérémy Lemée, University of St.Gallen
+- Brian Logan, University of Aberdeen & Utrecht University
 - Viviana Mascardi, University of Genova
 - Roberto	Micalizio,	University of Turin
 - Jörg P. Müller, Clausthal University of Technology
@@ -47,6 +48,7 @@ entries_layout: list
 - Michael Winikoff, Victoria University of Wellington
 - Vahid Yazdanpanah, University of Southampton
 - Neil Yorke-Smith, Delft University of Technology
+- Rym Zalila-Wenkstern, University of Texas at Dallas
 
 ***
 
