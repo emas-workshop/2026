@@ -31,6 +31,7 @@ entries_layout: list
 - Vincent Hilaire,	Belfort-Montbéliard University of Technology
 - Tom Holvoet,	KU Leuven
 - Jomi Fred Hubner, Federal University of Santa Catarina
+- Pooja Jhunjhunwala, Google
 - Jérémy Lemée, University of St.Gallen
 - Brian Logan, University of Aberdeen & Utrecht University
 - Viviana Mascardi, University of Genova
