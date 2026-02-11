@@ -10,7 +10,7 @@ entries_layout: list
 | Milestone              | Date (AoE, UTC−12)          |
 |------------------------|-----------------------------|
 | Abstract submission    | ~~January 28, 2026~~ <span style="color: darkorange"> February 11, 2026 </span>           |
-| Paper submission       | ~~February 4, 2026~~ <span style="color: darkorange"> February 18, 2026 </span>           |
+| Paper submission       | ~~February 4, 2026~~ <span style="color: darkorange"> February 22, 2026 </span>           |
 | Author notification    | March 19, 2026              |
 | Camera-ready submission| April 23, 2026              |
 | Workshop               | May 25–26, 2026             |
