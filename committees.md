@@ -43,10 +43,12 @@ entries_layout: list
 - Sebastian Rodriguez,	RMIT University
 - Luca Sabatucci,	National Research Council of Italy - Institute for High-Performance Computing and Networking
 - Aditya Shinde, University of Georgia
+- Tran Cao Son, New Mexico State University
 - Alexandru	Sorici, National University of Science and Technology Politehnica Bucharest
 - Danai	Vachtsevanou, University of St.Gallen
 - Gerhard Weiss,	Maastricht University
 - Michael Winikoff, Victoria University of Wellington
+- Prasanth Yadla, Independent Researcher (USA)
 - Vahid Yazdanpanah, University of Southampton
 - Neil Yorke-Smith, Delft University of Technology
 - Rym Zalila-Wenkstern, University of Texas at Dallas
