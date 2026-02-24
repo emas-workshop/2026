@@ -45,7 +45,6 @@ entries_layout: list
 - Aditya Shinde, University of Georgia
 - Tran Cao Son, New Mexico State University
 - Alexandru	Sorici, National University of Science and Technology Politehnica Bucharest
-- Danai	Vachtsevanou, University of St.Gallen
 - Gerhard Weiss,	Maastricht University
 - Michael Winikoff, Victoria University of Wellington
 - Prasanth Yadla, Independent Researcher (USA)
