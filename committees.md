@@ -23,7 +23,6 @@ entries_layout: list
 - Moharram Challenger, University of Antwerp
 - Amit Chopra, Lancaster University
 - Andrei Ciortea, University of St.Gallen
-- Rem	Collier,	University College Dublin
 - Louise Dennis,	University of Manchester
 - Angelo Ferrando, University of Genova
 - Stéphane Galland, Belfort-Montbéliard University of Technology
@@ -32,6 +31,7 @@ entries_layout: list
 - Tom Holvoet,	KU Leuven
 - Jomi Fred Hubner, Federal University of Santa Catarina
 - Pooja Jhunjhunwala, Google
+- Timotheus Kampik, Umeå University
 - Jérémy Lemée, University of St.Gallen
 - Brian Logan, University of Aberdeen & Utrecht University
 - Viviana Mascardi, University of Genova
@@ -39,7 +39,6 @@ entries_layout: list
 - Jörg P. Müller, Clausthal University of Technology
 - Andrei Olaru, National University of Science and Technology Politehnica Bucharest
 - Enrico Pontelli,	New Mexico State University
-- Alessandro Ricci,	University of Bologna
 - Sebastian Rodriguez,	RMIT University
 - Luca Sabatucci,	National Research Council of Italy - Institute for High-Performance Computing and Networking
 - Aditya Shinde, University of Georgia
