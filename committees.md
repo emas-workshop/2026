@@ -25,7 +25,7 @@ entries_layout: list
 - Amit Chopra, Lancaster University
 - Andrei Ciortea, University of St.Gallen
 - Louise Dennis,	University of Manchester
-- Angelo Ferrando, University of Genova
+- Angelo Ferrando, University of Modena and Reggio Emilia
 - Stéphane Galland, Belfort-Montbéliard University of Technology
 - James Harland, RMIT University
 - Vincent Hilaire,	Belfort-Montbéliard University of Technology
