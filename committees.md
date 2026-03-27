@@ -20,6 +20,7 @@ entries_layout: list
 - Rafael H. Bordini, PUCRS
 - Daniela Briola, University of Milano-Bicocca
 - Samuele	Burattini,	University of Bologna
+- Rafael C. Cardoso, University of Aberdeen
 - Moharram Challenger, University of Antwerp
 - Amit Chopra, Lancaster University
 - Andrei Ciortea, University of St.Gallen
