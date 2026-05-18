@@ -13,7 +13,6 @@ entries_layout: list
 ***
 
 # Programme Committee
-*New members may be added on a weekly basis.*
 - Matteo Baldoni, University of Turin
 - Cristina 	Baroglio, University of Turin
 - Olivier Boissier, Ecole Nationale Supérieure des Mines de St-Etienne & Institut Henri Fayol
