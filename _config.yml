@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-GB
-title: "The 14th International Workshop on Engineering Multi-Agent Systems"
+title: "The 14th International Workshop on Engineering Multi-Agent Systems (EMAS 2026)"
 description: ""
 baseurl: "/2026" # the subpath of your site, e.g. "/blog"
 url: "https://emas-workshop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
