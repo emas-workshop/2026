@@ -47,6 +47,7 @@ entries_layout: list
 - Gerhard Weiss,	Maastricht University
 - Michael Winikoff, Victoria University of Wellington
 - Prasanth Yadla, Independent Researcher (USA)
+- Elena Yan, Ecole Nationale Supérieure des Mines de St-Etienne
 - Vahid Yazdanpanah, University of Southampton
 - Neil Yorke-Smith, Delft University of Technology
 - Rym Zalila-Wenkstern, University of Texas at Dallas
