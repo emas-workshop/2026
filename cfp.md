@@ -14,6 +14,7 @@ entries_layout: list
 | Author notification    | ~~March 19, 2026~~   <span style="color: darkorange"> &nbsp;&nbsp;&nbsp;March 27, 2026 </span>  |
 | Camera-ready submission| April 27, 2026              |
 | Workshop               | May 25–26, 2026             |
+| Post-proceedings submission | July 8, 2026           |
 
 ***
 
@@ -62,11 +63,11 @@ For any questions, please, contact: [danai.vachtsevanou@unisg.ch](mailto:danai.v
 
 Papers accepted to the workshop, in their original or extended versions (e.g., for student papers), will be considered for inclusion in the post-proceedings.
 
-To support discussion of emerging ideas, provide opportunities for improvement, ensure a high-quality proceedings volume, and offer authors appropriate publication pathways, a two-stage process is employed: based on the reviewers' assessments, some papers may be recommended for inclusion in the post-proceedings in their current form, while others may be invited to submit revised and extended versions. Subject to final arrangements, the post-proceedings are intended for publication in Springer's Lecture Notes in Artificial Intelligence (LNAI) series.
+To support discussion of emerging ideas, provide opportunities for improvement, ensure a high-quality proceedings volume, and offer authors appropriate publication pathways, a two-stage process is employed: based on the reviewers' assessments, some papers may be recommended for inclusion in the post-proceedings in their current form, while others may be invited to submit revised and extended versions. The post-proceedings will be published in Springer's **Lecture Notes in Artificial Intelligence (LNAI)** series. Author instructions and submission details are available on the [Proceedings page](../proceedings/).
 
 ***
 
 # Awards
-We will select a paper for the best paper award based on reviewers' scores and recommendations.
+EMAS 2026 recognised outstanding contributions with two awards. See the [home page](../) for the winners.
 
 
