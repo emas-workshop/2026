@@ -23,8 +23,8 @@ Authors of accepted papers are invited to submit revised and/or extended version
 
 | Paper type | Page limit |
 |---|---|
-| Regular paper | up to 18 pages |
-| Short, student, and demo papers | up to 12 pages |
+| Regular paper | 18 pages |
+| Short, student, and demo papers | 12 pages |
 
 **All submissions must be at least 6 pages.** We encourage authors to aim for concise, focused revisions; the upper limits are not targets.
 
