@@ -18,14 +18,14 @@ Paphos, Cyprus
   <div style="flex:1; min-width:260px; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.10); display:flex; flex-direction:column;">
     <div style="background:#1a4a7a; padding:0.55em 1.1em; color:#fff; font-size:0.72em; font-weight:800; text-transform:uppercase; letter-spacing:0.1em;">Best Paper Award</div>
     <div style="background:#eef2f8; padding:0.9em 1.1em; font-size:0.87em; line-height:1.6; flex:1; display:flex; flex-direction:column;">
-      <div style="font-weight:700; color:#111; margin-bottom:0.2em;">ARARA: A LLM-Based Multi-Agent Development Framework for Conversational Recommender Systems</div>
+      <div style="font-weight:700; color:#111; margin-bottom:0.2em;"><a href="/2026/papers/041_ARARA_A_LLM-based_Multi-Agent_Development_Framework_for_Conv.pdf" target="_blank" style="color:#111;">ARARA: A LLM-Based Multi-Agent Development Framework for Conversational Recommender Systems</a></div>
       <div style="color:#555;">Fillipe Santos Silva, Juliano Leonardo Soares, Sildolfo F. G. Neto, Julio Cesar dos Reis, Marcelo S. Reis</div>
     </div>
   </div>
   <div style="flex:1; min-width:260px; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.10); background:#eef6f4; display:flex; flex-direction:column;">
     <div style="background:#2a7a6a; padding:0.55em 1.1em; color:#fff; font-size:0.72em; font-weight:800; text-transform:uppercase; letter-spacing:0.1em;">Best Student Paper Award</div>
     <div style="padding:0.9em 1.1em; font-size:0.87em; line-height:1.6; flex:1; display:flex; flex-direction:column;">
-      <div style="font-weight:700; color:#111; margin-bottom:0.2em;">Ex-Plan: Explaining BDI Agent Behaviour Through Contrastive Plan Analysis</div>
+      <div style="font-weight:700; color:#111; margin-bottom:0.2em;"><a href="/2026/papers/015_Ex-Plan_Explaining_BDI_Agent_Behaviour_Through_Contrastive_P.pdf" target="_blank" style="color:#111;">Ex-Plan: Explaining BDI Agent Behaviour Through Contrastive Plan Analysis</a></div>
       <div style="color:#555;">Curtis Davies, Babak Esfandiari</div>
     </div>
   </div>
