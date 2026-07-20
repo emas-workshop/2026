@@ -47,4 +47,4 @@ Authors of accepted papers are invited to submit revised and/or extended version
 
 ## Contact
 
-For any questions regarding the post-proceedings, please contact [danai.vachtsevanou@unisg.ch](mailto:danai.vachtsevanou@unisg.ch).
+For any questions regarding the post-proceedings, please contact [d.vachtsevanou@hud.ac.uk](mailto:d.vachtsevanou@hud.ac.uk).
