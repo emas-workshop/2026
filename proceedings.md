@@ -28,7 +28,7 @@ Authors of accepted papers are invited to submit revised and/or extended version
 
 **All submissions must be at least 6 pages.** We encourage authors to aim for concise, focused revisions; the upper limits are not targets.
 
-**Submission.** Revised papers are submitted via OpenReview. You can access your submission either via the Tasks tab in [OpenReview](https://openreview.net/), where you will find a "Camera-Ready Revision" task, or directly through the [authors console](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/EMAS/Authors). Please note that beyond uploading your revised paper, you will also be asked to fill in a field for the corresponding author(s).
+**Submission.** Revised papers are submitted via OpenReview. You can access your submission either via the Tasks tab in [OpenReview](https://openreview.net/), where you will find a "Camera-Ready Revision" task, or directly through the [authors console](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/EMAS/Authors). 
 
 **Licence to publish.** The corresponding author must sign the Springer licence-to-publish agreement on behalf of all co-authors. The corresponding author must be the same as the one marked on the paper and must have the authority to sign on behalf of all authors. You can download the [EMAS 2026 licence-to-publish agreement](/2026/assets/LNCS_ProceedingsPaper_LTP_ST_SN_Switzerland_EMAS_2026.docx). Digital signatures are not accepted at present. Please sign the form by hand, then scan it and upload it upon submission.
 
@@ -41,9 +41,10 @@ Authors of accepted papers are invited to submit revised and/or extended version
 | Milestone              | Date (AoE, UTC−12)          |
 |------------------------|-----------------------------|
 | Revised paper submission | July 8, 2026              |
+| Author notification | September 5, 2026         |
 
 ---
 
 ## Contact
 
-For any questions regarding the post-proceedings, please contact [danai.vachtsevanou@unisg.ch](mailto:danai.vachtsevanou@unisg.ch).
+For any questions regarding the post-proceedings, please contact [d.vachtsevanou@hud.ac.uk](mailto:d.vachtsevanou@hud.ac.uk).
